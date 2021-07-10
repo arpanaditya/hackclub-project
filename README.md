@@ -1,9 +1,9 @@
 # Name of the Project
-- Digital Calculator (Using Neumorphism)
+- Responsive Digital Calculator (Using Neumorphism)
 
 # About the Project
 - I have made this project for the event "7-days of web-development" organised by HackClub ITER
-- In this project I have created a simple calculator and I have used some neumorphism in it.
+- In this project I have created a simple calculator which is responsive to all types of devices and I have used some neumorphism in it.
 
 # Tech Stack used 
 - I have used HTML, CSS, and JavaScript to create this project.
@@ -17,7 +17,7 @@
 - Your 7 days of Web Development has really helped me a lot. Earlier I only have studied the conceptss. But the daily learning materials and quiz have helped me a lot in remembering the concepts. Due to the quiz I got the answer to some of my conceptual questions. I also got to know the reason behind the functionality of some things.
 
 # Hosted link
-- Link: 
+- Link: https://arpanaditya.github.io/hackclub-project/
 # Your Name, Registration Number.
 - Name: Aditya Arpan Sahoo
 - Registration Number: 2041019025
