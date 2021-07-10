@@ -18,6 +18,6 @@
 
 # Hosted link
 - Link: 
-# Your name, registration number.
+# Your Name, Registration Number.
 - Name: Aditya Arpan Sahoo
 - Registration Number: 2041019025
