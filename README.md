@@ -18,6 +18,10 @@
 
 # Hosted link
 - Link: https://arpanaditya.github.io/hackclub-project/
+
+# How it looks
+ ![Desktop View](img/pc-view.png)
+
 # Your Name, Registration Number.
 - Name: Aditya Arpan Sahoo
 - Registration Number: 2041019025
