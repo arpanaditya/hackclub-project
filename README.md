@@ -20,6 +20,7 @@
 - Link: https://arpanaditya.github.io/hackclub-project/
 
 # How it looks
+- Desktop View
  ![Desktop View](img/pc-view.png)
 
 # Your Name, Registration Number.
