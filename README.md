@@ -22,6 +22,8 @@
 # How it looks
 - Desktop View
  ![Desktop View](img/pc-view.png)
+- Mobile View
+ ![Mobile View](img/Mobile-View.png)
 
 # Your Name, Registration Number.
 - Name: Aditya Arpan Sahoo
